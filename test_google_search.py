@@ -1,6 +1,6 @@
 from selene.support.shared import browser
 from selene import be, have
-from conftest import test_windows_size
+
 
 
 def test_browser_open(test_windows_size):
